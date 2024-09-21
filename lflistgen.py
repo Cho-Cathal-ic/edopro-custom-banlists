@@ -20,8 +20,8 @@ newAdditionalLegalcards = []
 notLegalCards = [88926295, 1011091, 51522296, 35569555, 85969517, 99916754]
 stillWrong = []
 
-#(C) is common, (SP) is Short Print, (SSP) is Super Short Print
-legalRarities = ['(C)', '(SP)', '(SSP)']
+#(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (R) is base Rare
+legalRarities = ['(C)', '(SP)', '(SSP)', '(R)']
 
 #Banlist status
 banned = 'Banned'
